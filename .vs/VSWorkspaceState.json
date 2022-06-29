@@ -3,8 +3,9 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\sass"
+    "\\assets\\sass",
+    "\\images"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\images\\proto1gif.gif",
   "PreviewInSolutionExplorer": false
 }
